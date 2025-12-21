@@ -440,6 +440,9 @@ oaAll(不知名oa漏洞集合)<br/>
 <!--<h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-20-2021-03-06之间的时间就可以打开软件了</h2>-->
 <h2>上图实测效果</h2>
 
+nextjs react rce CVE-2025-55182
+
+![CVE-2025-55182注入内存马](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.5-enhance/refs/heads/main/CVE-2025-55182memshell%E6%89%B9%E9%87%8F.png)<br/>
 
 Microsoft share point CVE-2025-53770
 
