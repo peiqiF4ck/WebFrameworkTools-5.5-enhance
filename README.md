@@ -19,6 +19,7 @@
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
+ <li>2025-12-21 更新 nextjs react 反序列化 CVE-2025-55182 一键打哥斯拉内存马</li>
   <li>2025-07-23 更新 Microsoft share point CVE-2025-53770 一键批量getshell模块详情看底部。实战中坑点讲解请看视频 https://youtu.be/gITPNrJpZmE?si=Ihc-42IiJec56TyN </li>
    <li>2025-07-20 更新webframeworktools v5.5 增强版 增加webtitle模块  端口扫描  指纹识别  目录扫描 由于某些原因工具将永久停止对外发布。github 将做工具更新记录!!! </li>
     <li>2025-05-29 更新vBulletin Remote Code Execution Vulnerabilities Exploited  远程代码执行漏洞 CVE-2025-48828 CVE-2025-48827截图演示见底部</li>
