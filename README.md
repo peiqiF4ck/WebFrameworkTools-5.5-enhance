@@ -1,6 +1,6 @@
 
 <h1>2025年推出 webframeworktools 5.5 增强版</h1>
- <h3>在去年2024年7月份我们开始针对软件性能进行测试到。2024年12月软件测试完毕。总耗时将近4个月软件在1000万条url表现很好。跑了将近4个月没有出现奔溃现象。软件表现很不错。软件由于某些原因工具将永久对外停止发布,我们会出售全部webframeworktools 5.3 源代码。感兴趣的请到youtube中找相关情况   在github,博客,youtube还是会分享某些东西得</h3>
+ <h3>在去年2024年7月份我们开始针对软件性能进行测试到。2024年12月软件测试完毕。总耗时将近4个月软件在1000万条url表现很好。跑了将近4个月没有出现奔溃现象。软件表现很不错。软件由于某些原因工具将永久对外停止发布,我们会出售全部webframeworktools 5.2 源代码。感兴趣的请到youtube中找相关情况   在github,博客,youtube还是会分享某些东西得</h3>
  
  ![menu](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/5.2.png)
  ![menu](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main/blob/main/5.1dll.png)
