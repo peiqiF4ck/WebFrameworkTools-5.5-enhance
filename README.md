@@ -1,6 +1,6 @@
 
 <h1>2025年推出 webframeworktools 5.5 增强版</h1>
- <h3>在去年2024年7月份我们开始针对软件性能进行测试到。2024年12月软件测试完毕。总耗时将近4个月软件在1000万条url表现很好。跑了将近4个月没有出现奔溃现象。软件表现很不错。软件由于某些原因工具将永久对外停止发布,我们会出售全部webframeworktools 5.2 源代码。感兴趣的请到youtube中找相关情况   在github,博客,youtube还是会分享某些东西得</h3>
+ <h3>在去年2024年7月份我们开始针对软件性能进行测试到。2024年12月软件测试完毕。总耗时将近4个月软件在1000万条url表现很好。跑了将近4个月没有出现奔溃现象。软件表现很不错。软件由于某些原因工具将永久对外停止发布</h3><--我们会出售全部webframeworktools 5.2 源代码。感兴趣的请到youtube中找相关情况   在github,博客,youtube还是会分享某些东西得</h3>-->
  
  ![menu](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/5.2.png)
  ![menu](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main/blob/main/5.1dll.png)
@@ -19,9 +19,7 @@
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
- <li>2026-08-03 在昨天2026年8月3号已经对部分用户开源工具5.0源代码后续你们自己用ai开发吧。最新版本的暂未开源。在外面看到源代码只是5.0的5.3的没有开源注意甄别 </li>
 
-  ![源代码截图](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/5.0yuanma.png)
  <li>2025-12-21 更新 nextjs react 反序列化 CVE-2025-55182 一键打哥斯拉内存马。这个漏洞两周前出来。没看最近两天看了一下。发现github竟然没有c#利用工具。这么牛逼的语言竟然没有。利用工具。那我必须略微出手写个攻击模块出来。为了一个漏洞写一个工具的时候过去了。我们要学会写漏洞利用框架😏。这才是王道我已经不在江湖，江湖依然有我的传说。后续看什么时候再出来吧。如果有机会。后续出来纯粹是碾压同行软件😂🤣🤣😂。他们那些软件在我看来压根就是渣渣有在web漏洞这块来说，。简单介绍如何构造exp:https://youtu.be/QSFDsbq88Lk </li>
   <li>2025-07-23 更新 Microsoft share point CVE-2025-53770 一键批量getshell模块详情看底部。实战中坑点讲解请看视频 https://youtu.be/gITPNrJpZmE?si=Ihc-42IiJec56TyN </li>
    <li>2025-07-20 更新webframeworktools v5.5 增强版 增加webtitle模块  端口扫描  指纹识别  目录扫描 由于某些原因工具将永久停止对外发布。github 将做工具更新记录!!! </li>
